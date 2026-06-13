@@ -1,6 +1,3 @@
-### Name: Sri muthazhagan P
-### Register Number: 2305002024
-
 # Image Smoothing and Sharpening Using OpenCV
 
 ## Aim:
@@ -67,9 +64,8 @@ Display all filtered images using a grid layout for comparison.
 ---
 
 ##  Developed By:
-
-- **Name:** Divya A
-- **Register No:** 2305002007
+### Name: Sri muthazhagan P
+### Register Number: 2305002024
 
 ---
 
